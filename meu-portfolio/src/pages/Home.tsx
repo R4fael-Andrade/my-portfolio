@@ -16,11 +16,11 @@ const Home = () => {
     },[])
     return (      
     <>
-        <Header data-aos="fade-up" />
-        <Description data-aos="fade-up" />
-        <Technologies data-aos="fade-up" />
-        <Experience  data-aos="fade-up" />
-        <ContactSection data-aos="fade-up" />
+        <Header />
+        <Description />
+        <Technologies />
+        <Experience />
+        <ContactSection />
     </>
     )
 }
